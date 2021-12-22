@@ -13,10 +13,11 @@ Nieuwe aanpassingen binnenhalen van github:
 Om zelf aanpassingen to pushen naar github:
 -Zet je github profiel link in #github-profielen in de klas Discord
 	(zo kan ik je push rechten geven)
--Zorg dat je repository up-to-date is met het "git pull" commando
+-Zorg dat je repository up-to-date is met het "git pull origin main" commando
 -Gebruik "git status" om een lijst te krijgen van alle aangepaste bestanden
+-Gebruik "git checkout aanpassingen" om naar de aanpassingen branch te gaan
 -Typ "git add <lijst met bestanden die je wil toevoegen>"
 	(als je al je aanpassingen wil pushen, typ "git add .")
 -Typ "git commit -m "<commit bericht>")
 	Zorg dat je een duidelijk commit bericht geeft waarin je je aanpassingen kort oplijst
--Typ "git push"
+-Typ "git push --set-upstream origin aanpassingen"

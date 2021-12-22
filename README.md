@@ -22,5 +22,4 @@
 * Vragen? Stel ze in de klas Discord (gebruik @Rogue)
 * Je kan pas aanpassingen pushen als ik je een eigen branch gegeven heb
 * Push nooit vanuit de main branch of een andere persoon zijn/haar branch, enkel uit de jouwe
-* Zorg dat je altijd pusht als je klaar bent
 * Zorg voor een duidelijk commit bericht, maar hou het kort
